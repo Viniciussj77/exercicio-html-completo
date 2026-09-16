@@ -1,8 +1,18 @@
 body{
-    background-color: black;
-    color: white
+    background-color: cyan;
+    
   }
+  h1{
+    color: blue;
+  }
+h2{
+  color: azure;
+}
+ol{
+  color: black;
+}
 
-    img {width: 250px; height: auto;
-    }
+    
+      
+    
 
