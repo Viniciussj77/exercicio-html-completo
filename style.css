@@ -4,6 +4,7 @@
 }
 
 body{
+<<<<<<< HEAD
     background-color:black;
     color: white;
   }
@@ -11,3 +12,22 @@ body{
 .titulo-destaque{
   color:#22D4FD
 }
+=======
+    background-color: cyan;
+    
+  }
+  h1{
+    color: blue;
+  }
+h2{
+  color: azure;
+}
+ol{
+  color: black;
+}
+
+    
+      
+    
+
+>>>>>>> 7a1413cf14c341cb89dc6c8fec263263fd588367
