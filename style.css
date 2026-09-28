@@ -1,33 +1,24 @@
 *{
   margin: 0;
   padding: 0;
+  ;
 }
 
 body{
-<<<<<<< HEAD
-    background-color:black;
+    height:100vh ;
+  background-color:black;
     color: white;
   }
   
 .titulo-destaque{
   color:#22D4FD
 }
-=======
-    background-color: cyan;
-    
-  }
-  h1{
-    color: blue;
-  }
-h2{
-  color: azure;
+p{
+  color: red;
+  margin: 10 px;
+  border: 2px solid black;
+  padding: 5px;
 }
-ol{
-  color: black;
-}
-
-    
-      
-    
-
->>>>>>> 7a1413cf14c341cb89dc6c8fec263263fd588367
+    h1{
+      color: #007BFF;
+    }
