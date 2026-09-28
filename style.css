@@ -1,10 +1,13 @@
-body{
-    background-color: black;
-    color: white
-  }
+*{
+  margin: 0;
+  padding: 0;
+}
 
-    img {width: 250px; height: auto;
-    }
-strong{
-  color:#22D4FD ;
+body{
+    background-color:black;
+    color: white;
+  }
+  
+.titulo-destaque{
+  color:#22D4FD
 }
